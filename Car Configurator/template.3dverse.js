@@ -28,7 +28,7 @@ export default {
       path: "/Public",
     },
     SceneMercedesRims: {
-      asset_id: "488811b6-63f8-40c2-bf95-c5130b3da7b1",
+      asset_id: "38e148ac-8ff3-4112-8c79-f1379e4d8026",
       asset_type: "scene",
       path: "/Public",
     },
@@ -40,17 +40,17 @@ export default {
       path: "/Public",
     },
     MeshLips: {
-      asset_id: "6721927d-275a-4a52-973e-098d0f305663",
+      asset_id: "50dceb45-c9b8-4510-a8ed-162c8963dd1f",
       asset_type: "mesh",
       path: "/Public",
     },
     MeshBackBumper: {
-      asset_id: "6721927d-275a-4a52-973e-098d0f305663",
+      asset_id: "5206cff6-ebdb-48db-a031-bfd190e8fc24",
       asset_type: "mesh",
       path: "/Public",
     },
     MeshFrontBumper: {
-      asset_id: "6721927d-275a-4a52-973e-098d0f305663",
+      asset_id: "61b18af2-cb92-4fb0-9aa0-a6d83f9c014d",
       asset_type: "mesh",
       path: "/Public",
     },
@@ -60,12 +60,12 @@ export default {
       path: "/Public",
     },
     MeshFrontProtection: {
-      asset_id: "6721927d-275a-4a52-973e-098d0f305663",
+      asset_id: "7bb4e859-f709-4a17-8e21-cd898092c783",
       asset_type: "mesh",
       path: "/Public",
     },
     MeshMudProtection: {
-      asset_id: "6721927d-275a-4a52-973e-098d0f305663",
+      asset_id: "ca567d0f-9b7d-4dec-81e9-ea698105325c",
       asset_type: "mesh",
       path: "/Public",
     },
@@ -90,19 +90,18 @@ export default {
     // cars paint
     MaterialGclassPaint: {
       asset_id: "ecde5b9a-5415-42b4-8b43-810a0ec84161",
-      /* asset_id: "26f7f0a5-d1a0-4ee5-9627-93f723e8fc0f", */
       asset_type: "material",
       path: "/Public",
     },
 
     // cars front & rear lights
     MaterialGclassHeadLights: {
-      asset_id: "05f4c176-d7d8-448a-9e06-e1cf357b6fd4",
+      asset_id: "21b1ddc6-ba9a-439a-b223-1775a18d2a28",
       asset_type: "material",
       path: "/Public",
     },
     MaterialGclassRearLights: {
-      asset_id: "73c457eb-877f-45f3-8a69-c22e5930d6cb",
+      asset_id: "7a5d9d5b-288b-4f4e-8638-0837288c99d0",
       asset_type: "material",
       path: "/Public",
     },
